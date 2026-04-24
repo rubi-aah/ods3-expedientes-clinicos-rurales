@@ -21,3 +21,8 @@ Este proyecto evita:
 - Dependencia de infraestructura tecnológica avanzada
 
 El objetivo es garantizar un acceso equitativo a herramientas tecnológicas en salud.
+
+
+## 🔐 Seguridad de la información
+
+El sistema implementa mecanismos de cifrado para proteger los datos clínicos de los pacientes, garantizando su confidencialidad incluso en entornos con baja conectividad.
