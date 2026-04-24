@@ -23,10 +23,18 @@ Este proyecto evita:
 El objetivo es garantizar un acceso equitativo a herramientas tecnológicas en salud.
 
 
-<<<<<<< feature/cifrado-datos
-=======
-
->>>>>>> main
 ## 🔐 Seguridad de la información
 
 El sistema implementa mecanismos de cifrado para proteger los datos clínicos de los pacientes, garantizando su confidencialidad incluso en entornos con baja conectividad.
+
+
+## 🔍 Auditoría de seguridad
+
+El repositorio implementa buenas prácticas de seguridad:
+
+- No se incluyen credenciales en el código
+- Uso de .gitignore para evitar archivos sensibles
+- Simulación de escaneo de secretos
+- Revisión de dependencias
+
+Estas medidas garantizan que el sistema sea confiable para el usuario final.
