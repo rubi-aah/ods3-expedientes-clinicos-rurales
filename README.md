@@ -1,2 +1,23 @@
-# ods3-expedientes-clinicos-rurales
-Sistema de gestión de expedientes clínicos para zonas rurales con baja conectividad - ODS 3
+## 🔒 Protección de Datos
+
+Este sistema está diseñado bajo principios de privacidad desde el diseño (Privacy by Design):
+
+- Los datos se almacenan de forma local cuando no hay conexión
+- La información sensible es protegida mediante cifrado
+- Se limita el acceso únicamente a personal autorizado
+
+## 🌐 Accesibilidad y sostenibilidad
+
+- El sistema funciona en entornos de baja conectividad
+- Interfaz simple para facilitar su uso en comunidades rurales
+- Compatible con dispositivos de bajos recursos
+
+## ⚠️ Consideraciones éticas
+
+Este proyecto evita:
+
+- Uso indebido de datos personales
+- Discriminación algorítmica
+- Dependencia de infraestructura tecnológica avanzada
+
+El objetivo es garantizar un acceso equitativo a herramientas tecnológicas en salud.
